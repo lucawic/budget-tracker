@@ -24,10 +24,11 @@ In order to run this project locally, one has to first clone this repository. Th
 2. npm start - now the application can be launched
 
 ## Tests
-No testing
+No testing Only Link. Enjoy
+https://guarded-savannah-19260.herokuapp.com/
 
 ## Demonstration
-DEMO Video 
+https://guarded-savannah-19260.herokuapp.com/
 
 ## Questions
 If you have any questions on this project please contact me at
